@@ -30,9 +30,9 @@ My primary focus is to **learn and evolve as a software developer**, deeply unde
 
 ## 📊 GitHub Stats & 🔥 Streak
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madu-alt&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madu-alt&theme=rose_pine&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madu-alt&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madu-alt&theme=rose_pine&hide_border=false">
 </div>
 
 ---
