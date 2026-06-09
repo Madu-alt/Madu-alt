@@ -1,6 +1,6 @@
 # Hi there, I'm Maria Eduarda! 👋 🌸
 
-### 🎓 Software Engineering Academic | Aspiring Software Developer
+### 🎓 Software Engineering Academic 
 
 Welcome to my GitHub! I am a dedicated Software Engineering student driven by the goal of **mastering software development**. I enjoy building clean, functional interfaces and exploring how technology can solve daily problems.
 
@@ -19,18 +19,25 @@ My primary focus is to **learn and evolve as a software developer**, deeply unde
 
 ### 🎨 Frontend
 <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 
 ### ⚙️ Backend
 <img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> 
 
 ### 💬 Languages
 <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ 
 ### 💻 Framework
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
 ### 📊 Database
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+### 📱 Software 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 ---
 
@@ -53,7 +60,6 @@ My primary focus is to **learn and evolve as a software developer**, deeply unde
 
 - 🎨 Focused on creating visually appealing interfaces.
 - 💻 Constantly building and breaking things to understand how they work.
-- 🚀 Starting my academic journey with a hands-on approach to coding.
 
 ---
 
