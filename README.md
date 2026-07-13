@@ -50,6 +50,7 @@ My primary focus is to **learn and evolve as a software developer**, deeply unde
 ### 📌 Current Project:
 
 * 🍒 **Habit Tracker:** A desktop application built with **Electron.js** to help users track daily goals with a minimalist and aesthetic UI.
+* 🌸 **Lily's Flowers:** A website built with **React, Bootstrap, vite and React Router Dom** to give informationts about the flowers in the store.
 * 📖 Studying Software Engineering fundamentals and Data Structures.
 * 🧪 Exploring local data persistence and Desktop/Web integration.
 
