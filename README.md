@@ -42,7 +42,7 @@ My primary focus is to **learn and evolve as a software developer**, deeply unde
 
 ## 📊 GitHub Stats & 🔥 Streak
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Madu-alt&theme=rose&border_radius=16&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak]< img src="https://streak-stats.demolab.com?user=Madu-alt&theme=rose&border_radius=16&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
